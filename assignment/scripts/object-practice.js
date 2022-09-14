@@ -9,6 +9,11 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const me = {
+  firstName: 'Noelani',
+  lastName: 'West',
+  hasSiblings: true,
+  shoeCount: 14,
+  favThreeFoods: ['ramen', 'tacos', 'brownies']
   // TODO - add properties here
 };
 console.log('A little about me:', me);
@@ -26,6 +31,7 @@ console.log('A little about me:', me);
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
+
 
 
 
